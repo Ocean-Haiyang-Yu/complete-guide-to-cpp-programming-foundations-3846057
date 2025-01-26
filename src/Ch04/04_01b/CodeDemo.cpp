@@ -5,7 +5,11 @@
 #include <iostream>
 
 int main(){
-    
+    int enemies[4];
+
+    enemies[0] = 10;
+    enemies[0] = 10;
+
     std::cout << std::endl << std::endl;
     return 0;
 }
